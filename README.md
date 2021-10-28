@@ -9,8 +9,11 @@
 - 😄 Pronouns: He/Him/Guy
 - ⚡ Fun fact: I overthink alot
 
+![](https://komarev.com/ghpvc/?username=bovage)
+
+
 ![Bovage's GitHub stats](https://github-readme-stats.vercel.app/api?username=bovage&show_icons=true&theme=blueberry)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bovage)](https://github.com/bovage/github-readme-stats)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bovage&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
