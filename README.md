@@ -7,7 +7,7 @@
 - 💬 Ask me about **Education**, **Technology**, **Mental health**
 - 📫 How to reach me: fayemibolu2@gmail.com
 - 😄 Pronouns: He/Him/Guy
-- ⚡ Fun fact: I'm a long term thinker
+- ⚡ Fun fact: I love spending time with my girlfriend.
 
 ![](https://komarev.com/ghpvc/?username=bovage)
 
