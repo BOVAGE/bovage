@@ -9,8 +9,6 @@
 - 😄 Pronouns: He/Him/Guy
 - ⚡ Fun fact: I love spending time with my girlfriend.
 
-![](https://komarev.com/ghpvc/?username=bovage)
-
 
 ![Bovage's GitHub stats](https://github-readme-stats.vercel.app/api?username=bovage&show_icons=true&theme=blueberry)
 
