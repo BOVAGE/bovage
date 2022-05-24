@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself🥰.
-- 🌱 I’m currently learning backend development with Python -> Django.
+- 🌻 I'm currently learning NodeJs
 - 👯 I’m looking to collaborate on projects that will solve real world problems and enhance my coding skills.
 - 💬 Ask me about **Education**, **Technology**, **Mental health**
 - 📫 How to reach me: fayemibolu2@gmail.com
 - 😄 Pronouns: He/Him/Guy
 - ⚡ Fun fact: I love spending time with my girlfriend.
-### Project(s) I am working on:
-- [Anonime](https://www.anonime.xyz/)
-- [Church Management System](https://github.com/BOVAGE/church-management-system)
 
 ### Connect with me all around the web:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boluwatife-fayemi-012296157)
@@ -50,5 +47,10 @@
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://analytics.google.com/)
+
+[![Bovage's GitHub stats](https://github-readme-stats.vercel.app/api?username=bovage)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bovage&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bovage&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
